@@ -44,4 +44,8 @@ public class NetworkAndroid {
             }
         });
     }
+
+    public String test(){
+        return "Hello world";
+    }
 }
